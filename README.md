@@ -1,5 +1,5 @@
 # Test Github
 
-## Collaborators
+## Contributors
 
 ## Wireframes
