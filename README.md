@@ -5,4 +5,4 @@
 1. Contributor 2
 1. Contributor 3
 
-## Wireframes - No screenshots
+## Wireframes - Screenshots only
